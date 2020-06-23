@@ -1,1 +1,1 @@
-# Smart-Weather
+# smart-weather
